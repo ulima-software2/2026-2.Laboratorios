@@ -10,7 +10,7 @@
 | Número | Tema | Puntaje |
 | ------ | ---- | ------- |
 | L01    | Principios de Ingeniería de Software | 2 puntos |
-| L02    | Patrones de Diseño Creacionales | 2 puntos |
+| L02    | Patrones de Diseño Creacionales | 3 puntos |
 | L03    | Patrones de Diseño Estructurales | 2 puntos |
 | L04    | Patrones de Diseño de Comportamiento | 2 puntos |
 | L05    | Diseño de la Arquitectura del Software | 2 puntos |
